@@ -1,28 +1,12 @@
-<div id="container">
-
-</div>
-
-<script src="./boston.js"></script>
-<script>
-    function renderBoston(boston,container){
-        var person = boston.data;
-        var len = boston.data.length;
-       
-        var html = '';
-        var topFiveEarners = [];
-        var howManyOver100K = 0;
-        person.sort((a,b)=> b[11]-a[11]);
-        for (let i = 0; i<len; i++){
-           if(person[i][11]>100000) { howManyOver100K++;}
-        }
-
-        for (let i = 0; i<5; i++){
-            html += '<li class="post">' +
-                '<h2>' + person[i][8] + '</h2>' +
-                '<h3>' + person[i][11] + '</h3>'
-        }
-        html += "<h3>Over 100 Thousand</h3><h4>" + howManyOver100K + '</h4>';
-        container.innerHTML = '<ul id = "boston">' + html + ' </ul>';
-    }
-    renderBoston(boston, document.getElementById('container'));
-</script>
+<html>
+  <head>
+    <title>Walk Through Boston Data</title>
+  </head>
+  <body>
+    <div id="container">
+      <!-- populated by JS-->
+    </div>
+    <script src="./boston.js"></script>
+    <script src="./walkboston.js"></script>
+  </body>
+</html>
