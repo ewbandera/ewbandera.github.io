@@ -13,7 +13,7 @@ var home = '<div class="gridWrapperHome">'+
 '   </div>'+
 '   <div class="four text ">'+
 '       <a href="mailto:fake@gmail.com">fake@gmail.com</a><br>'+
-'       <a href="https://linkedin.com">Linked In</a>'+
+'       <a target="_blank" href="https://linkedin.com">Linked In</a>'+
 '   </div>'+
 '</div>';
 export {home};
