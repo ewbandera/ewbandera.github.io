@@ -1,6 +1,9 @@
 body {
    /* background-color:#0000001a;*/
-    background-image: url("images/colorBg.jpg");
+    background-image: url("../images/techBg.jpg");
+}
+.navbar {
+  padding: 25px;
 }
 .gridWrapperHome{
     display: grid;

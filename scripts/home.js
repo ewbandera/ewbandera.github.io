@@ -1,6 +1,6 @@
 var home = '<div class="gridWrapperHome">'+
 '   <div class="one">'+ 
-'       <img class="oval" src="./bioPic1.jpg" width="300px" />'+
+'       <img class="oval" src="images/bioPic1.jpg" width="300px" />'+
 '   </div>'+
 '   <div class="two text">'+
 '       <h3>Some Kind of Heading</h3>'+
