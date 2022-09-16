@@ -3,9 +3,12 @@ var home = '<div class="gridWrapperHome">'+
 '       <img class="oval" src="images/bioPic1.jpg" width="300px" />'+
 '   </div>'+
 '   <div class="two text">'+
-'       <h3>Some Kind of Heading</h3>'+
+'       <h3>Eric Bandera</h3>'+
 '       <p>'+
-'        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'+
+'        I am a Technical and Analyst and Software Developer based in Southern Illinois.  Currently I’m employed by Consolidated Electrical Distributors writing code to assist in back-end supply chain integrations.  Most of my formal education has been in music and I have a MM in music theory and composition and a BM in performance for the classical guitar.  However, I have continued my education in information technology consistently.  As well as having software developer certificates in C# and PHP, I also have acquired a Comp Tia A+ certification and CBCA credential.  Currently I am enrolled in the MIT xPRO Software Developer program.'+
+'       </p>'+
+'       <p>'+
+'        I’m always very excited to expand my knowledge and experience in Computer Science and thank you for taking the time to visit my online portfolio.'+
 '       </p>'+
 '   </div>'+
 '   <div class="three">'+
