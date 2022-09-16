@@ -3,7 +3,7 @@ body {
     background-image: url("../images/techBg.jpg");
 }
 .navbar {
-  padding: 25px;
+  padding: 30px;
 }
 .gridWrapperHome{
     display: grid;
