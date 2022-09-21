@@ -15,8 +15,9 @@ var home = '<div class="gridWrapperHome">'+
 '       <iframe width="560" height="315" src="https://www.youtube.com/embed/r3xppwZw6Cc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'+
 '   </div>'+
 '   <div class="four text ">'+
-'       <a href="mailto:fake@gmail.com">fake@gmail.com</a><br>'+
-'       <a target="_blank" href="https://linkedin.com">Linked In</a>'+
+'       <a href="https://github.com/ewbandera" target="_blank">View my github portfolio</a><br>'+
+'        <a href="mailto:ericbandera@gmail.com">ericbandera@gmail.com</a><br>' +       
+'        <a target="_blank" href="https://www.linkedin.com/in/eric-bandera-14a3b2a3">Linked In</a>'+
 '   </div>'+
 '</div>';
 export {home};
