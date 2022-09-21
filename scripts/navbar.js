@@ -6,7 +6,7 @@ const nav = '<nav class="navbar navbar-expand-lg navbar-dark bg-dark">' +
                 '<div class="collapse navbar-collapse" id="navbarNav">' +
                 '<ul class="navbar-nav">' +
                     '<li class="nav-item active">' +
-                    '<a id="home" class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>' +
+                    '<a id="home" class="nav-link" href="#">Home <span class="sr-only"></span></a>' +
                     '</li>' +
                     '<li class="nav-item">' +
                     '<a id="projects" class="nav-link" href="#">Projects</a>' +
