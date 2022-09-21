@@ -7,7 +7,7 @@ var projects = '<div class="gridWrapperProjects"><div class="pacMenTitle text">'
 '    <a target="_blank" href="https://ewbandera.github.io/PacMen/">New Tab</a>'+
 '</p>'+
 '<p>Description:'+
-'   Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah'+
+'   This project is a demonstration of user interface elements, shadow dom, javascript factories, and a recursive timer.  To use the app, add any number of Pac Men by clicking the "Add PacMan" button.  Then click the "Start Game" button and the objects will move throughout the screen.'+
 '</p>'+
 '</div>'+
 '<div class="pacMenFrame">'+
@@ -22,7 +22,7 @@ var projects = '<div class="gridWrapperProjects"><div class="pacMenTitle text">'
 '    <a target="_blank" href="https://ewbandera.github.io/Eyes/">New Tab</a>'+
 '</p>'+
 '<p>Description:'+
-'   Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah'+
+'   This project is a demonstration of more advanced user interface elements, usage of events and cascading style sheets.  The demonstration is that when a mouse enters into the screen, the eyes will adjust to look in the direction of the mouse cursor.'+
 '</p>'+
 '</div>'+
 '<div class="eyeFrame">'+
@@ -37,8 +37,7 @@ var projects = '<div class="gridWrapperProjects"><div class="pacMenTitle text">'
 '   <a target="_blank" href="https://ewbandera.github.io/BusTracker/">New Tab</a>'+
 '</p>'+
 '<p>Description:'+
-'    Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah'+
-'</p>'+
+'    This project is a demonstration of real time data as provided through the Chicago Transit Authority API resource.  It implements the use of a third party for mapping elements, and updated on a 15 second interval.  The specific bus routes being monitored are the "63","63W" "62" and the "62H".'+
 '</div>'+
 '<div class="busTrackerFrame">'+
 '<iframe width="100%" height="100%" src="https://ewbandera.github.io/BusTracker/"></iframe>'+
